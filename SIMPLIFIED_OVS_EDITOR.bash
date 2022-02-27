@@ -1,4 +1,4 @@
-#!/bin/ba sh
+#!/bin/bash
 
 #AUTHOR: https://github.com/steve08080
 #VERSION: 1.0
